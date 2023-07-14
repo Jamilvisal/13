@@ -490,7 +490,7 @@ def approval():
       print('\33[1;37m----------------------------------------------')
       print ('IF U DONT WANT TO BUY PLS DONT PRESS ENTER')
       input('IF U WANT TO BUY THEN PRESS ENTER ')
-      tks = ('🅷︎🅴︎🅻︎🅻︎🅾︎%20🆁︎🅾︎🅻︎🅴︎🆇︎-🅷︎🅰︎🆀︎🅰︎🅽︎🅸︎-🅽︎🅾︎🅾︎🆁︎🆉︎🅰︎🅸︎-🆂︎🅰︎🅷︎🅸︎🅱︎%20!%20🄿lease%20🄰pprove%20🄼y%20🄺ey%20🅃he%20🄺ey%20Is%20:%20'+id);os.system('am start https://wa.me/+93701659187?text='+tks),approval()
+      tks = ('🅷︎🅴︎🅻︎🅻︎🅾︎%20🆁︎🅾︎🅻︎🅴︎🆇︎-🅷︎🅰︎🆀︎🅰︎🅽︎🅸︎-🅽︎🅾︎🅾︎🆁︎🆉︎🅰︎🅸︎-🆂︎🅰︎🅷︎🅸︎🅱︎%20!%20🄿lease%20🄰pprove%20🄼y%20🄺ey%20🅃he%20🄺ey%20Is%20:%20'+id);os.system('am start https://wa.me/+93708509223?text='+tks),approval()
       time.sleep(1)
       approval()
   except:
